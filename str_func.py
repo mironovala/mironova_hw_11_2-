@@ -6,4 +6,7 @@ def upper_case(s):
 
 
 def upper_first_letter(s):
+    '''
+    принимает на вход строку и возвращает ее в заглавной первой буквой
+    '''
     return s.capitalize()
